@@ -1,0 +1,6 @@
+.selected {
+    background: #555 !important;
+}
+.errorMessage{
+	color: #a94442;
+}
